@@ -10,6 +10,7 @@ set showmatch
 set relativenumber
 ```
 
+sway conf
 ```
 # Default config for sway
 #
@@ -499,6 +500,8 @@ export _JAVA_AWT_WM_NONREPARENTING=1
 . "$HOME/.cargo/env
 ```
 
+foot.ini
+```
 # -*- conf -*-
 
 # shell=$SHELL (if set, otherwise user's default shell from /etc/passwd)
